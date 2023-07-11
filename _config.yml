@@ -1,0 +1,7 @@
+excludes:
+ - _config.yml
+ - .gitignore
+ - package.json
+ - package-lock.json
+ - _assets
+ - .github
