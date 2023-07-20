@@ -1,0 +1,12 @@
+{
+  "latest_version": "0.0.1",
+  "latest_timestamp": 1689855999346,
+  "type": "program",
+  "description": "A Python interpreter for OllieOS, powered by Pyodide.",
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_py.git",
+  "homepage_url": "https://ollieg.codes",
+  "deps": [],
+  "long_desc": "# Python for OllieOS\r\n\r\nA Python interpreter for OllieOS, powered by [Pyodide](https://github.com/pyodide/pyodide).\r\n\r\n`pkg add py`\r\n"
+}
