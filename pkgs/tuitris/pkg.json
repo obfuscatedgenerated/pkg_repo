@@ -1,0 +1,12 @@
+{
+  "latest_version": "0.0.1",
+  "latest_timestamp": 1699563300634,
+  "type": "program",
+  "description": "A block puzzle game for OllieOS.",
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_tuitris.git",
+  "homepage_url": "https://ollieg.codes",
+  "deps": [],
+  "long_desc": "# TUItris\r\n\r\nA block puzzle game for OllieOS.\r\n\r\n```\r\npkg add tuitris\r\n```\r\n"
+}
