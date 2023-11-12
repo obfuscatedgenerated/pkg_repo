@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.0.2",
-  "latest_timestamp": 1699573023412,
+  "latest_version": "0.0.3",
+  "latest_timestamp": 1699810425245,
   "type": "program",
   "description": "A block puzzle game for OllieOS.",
   "author": "obfuscatedgenerated",
