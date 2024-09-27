@@ -3,5 +3,6 @@
     "hwpkg-hwpkg-1.0.0.js"
   ],
   "version": "1.0.0",
-  "deps": []
+  "deps": [],
+  "build_timestamp": 1727478000908
 }
