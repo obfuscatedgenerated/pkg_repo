@@ -1,0 +1,1 @@
+var e={d:(r,t)=>{for(var o in t)e.o(t,o)&&!e.o(r,o)&&Object.defineProperty(r,o,{enumerable:!0,get:t[o]})},o:(e,r)=>Object.prototype.hasOwnProperty.call(e,r)},r={};e.d(r,{A:()=>t});const t={name:"hwpkg",description:"Says hello to the world!",usage_suffix:"",arg_descriptions:{},main:e=>{const{term:r}=e;return r.writeln("hello package!"),0}};var o=r.A;export{o as default};
