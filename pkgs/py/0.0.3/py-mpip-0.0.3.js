@@ -1,1 +1,0 @@
-var e={d:(r,a)=>{for(var t in a)e.o(a,t)&&!e.o(r,t)&&Object.defineProperty(r,t,{enumerable:!0,get:a[t]})},o:(e,r)=>Object.prototype.hasOwnProperty.call(e,r)},r={};e.d(r,{Z:()=>a});const a={name:"mpip",description:"Micropip package manager",usage_suffix:"",arg_descriptions:{},main:e=>{const{term:r}=e;return r.writeln("hello package!"),0}};var t=r.Z;export{t as default};

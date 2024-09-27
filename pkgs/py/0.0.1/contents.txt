@@ -1,2 +1,0 @@
-py-py-0.0.1.js
-py-mpip-0.0.1.js
