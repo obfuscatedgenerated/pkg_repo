@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.0.0",
+  "latest_timestamp": 1728352507930,
+  "type": "program",
+  "description": "The OllieOS development tool group.",
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_test_pkg.git",
+  "homepage_url": "https://ollieg.codes",
+  "long_desc": "# OllieOS Dev Group\r\n\r\nThe OllieOS development tool group.\r\n\r\n## Programs and subpackages\r\n\r\n- nointro: allows you to skip the artificial loading screen of the OllieOS operating system, only showing it for as long as it takes to load the operating system.\r\n- jsdbg: redirects the JavaScript console to be shown within the terminal.\r\n"
+}
