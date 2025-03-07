@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.0.3",
-  "latest_timestamp": 1741309587613,
+  "latest_version": "0.0.4",
+  "latest_timestamp": 1741309827179,
   "type": "program",
   "description": "TOTP codes in OllieOS. Don't use this for anything serious.",
   "author": "obfuscatedgenerated",
