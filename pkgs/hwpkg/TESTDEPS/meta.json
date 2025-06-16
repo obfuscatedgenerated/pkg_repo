@@ -4,7 +4,7 @@
   ],
   "version": "TESTDEPS",
   "deps": [
-    "tuitris@0.0.3"
+    "tuitris@0.0.4"
   ],
   "build_timestamp": 1727478435488,
   "externals": "global"
