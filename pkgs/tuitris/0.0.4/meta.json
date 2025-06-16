@@ -1,0 +1,9 @@
+{
+  "files": [
+    "tuitris-tuitris-0.0.4.js"
+  ],
+  "version": "0.0.4",
+  "deps": [],
+  "build_timestamp": 1750097126953,
+  "externals": "global"
+}
