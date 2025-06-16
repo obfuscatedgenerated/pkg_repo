@@ -6,5 +6,6 @@
   "deps": [
     "tuitris@0.0.3"
   ],
-  "build_timestamp": 1727478435488
+  "build_timestamp": 1727478435488,
+  "externals": "global"
 }
