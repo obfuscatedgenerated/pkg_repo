@@ -4,5 +4,6 @@
   ],
   "version": "0.0.7",
   "deps": [],
-  "build_timestamp": 1750090546320
+  "build_timestamp": 1750090546320,
+  "externals": "global"
 }
