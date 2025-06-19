@@ -1,0 +1,9 @@
+{
+  "files": [
+    "gmod-gmod-1.0.0.js"
+  ],
+  "version": "1.0.0",
+  "deps": [],
+  "build_timestamp": 1750300683270,
+  "externals": "global"
+}
