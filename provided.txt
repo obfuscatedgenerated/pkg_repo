@@ -3,6 +3,7 @@ dev
 font
 gmod
 hwpkg
+minecraft
 py
 rallylife
 tuitris
