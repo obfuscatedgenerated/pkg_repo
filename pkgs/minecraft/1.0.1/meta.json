@@ -1,0 +1,9 @@
+{
+  "files": [
+    "minecraft-minecraft-1.0.1.js"
+  ],
+  "version": "1.0.1",
+  "deps": [],
+  "build_timestamp": 1762732469724,
+  "externals": "global"
+}
