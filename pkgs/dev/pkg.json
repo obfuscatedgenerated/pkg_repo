@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.5",
-  "latest_timestamp": 1750194207959,
+  "latest_version": "1.0.6",
+  "latest_timestamp": 1762803319247,
   "type": "program",
   "description": "The OllieOS development tool group.",
   "author": "obfuscatedgenerated",
   "license": "MIT",
   "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_test_pkg.git",
   "homepage_url": "https://ollieg.codes",
-  "long_desc": "# OllieOS Dev Group\r\n\r\nThe OllieOS development tool group.\r\n\r\n## Programs and subpackages\r\n\r\n- nointro: allows you to skip the artificial loading screen of the OllieOS operating system, only showing it for as long as it takes to load the operating system.\r\n- jsdbg: redirects the JavaScript console to be shown within the terminal.\r\n"
+  "long_desc": "# OllieOS Dev Group\r\n\r\nThe OllieOS development tool group.\r\n\r\n## Programs and subpackages\r\n\r\n- nointro: allows you to skip the artificial loading screen of the OllieOS operating system, only showing it for as long as it takes to load the operating system.\r\n- jsdbg: redirects the JavaScript console to be shown within the terminal.\r\n- mount: allows you to mount a program from the filesystem, as would happen with pkgs. Will only be mounted until reboot.\r\n- expose_term: exposes the terminal object to the global scope, allowing you to access it from the JavaScript console.\r\n"
 }
