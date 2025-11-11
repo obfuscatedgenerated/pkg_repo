@@ -1,0 +1,9 @@
+{
+  "files": [
+    "doom-doom-1.0.2.js"
+  ],
+  "version": "1.0.2",
+  "deps": [],
+  "build_timestamp": 1762820859477,
+  "externals": "global"
+}
