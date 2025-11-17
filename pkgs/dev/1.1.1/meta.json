@@ -1,0 +1,12 @@
+{
+  "files": [
+    "dev-nointro-1.1.1.js",
+    "dev-jsdbg-1.1.1.js",
+    "dev-mount-1.1.1.js",
+    "dev-expose_term-1.1.1.js"
+  ],
+  "version": "1.1.1",
+  "deps": [],
+  "build_timestamp": 1763343981881,
+  "externals": "global"
+}
