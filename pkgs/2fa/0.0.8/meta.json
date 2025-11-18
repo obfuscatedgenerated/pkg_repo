@@ -1,0 +1,9 @@
+{
+  "files": [
+    "2fa-2fa-0.0.8.js"
+  ],
+  "version": "0.0.8",
+  "deps": [],
+  "build_timestamp": 1763426649850,
+  "externals": "global"
+}
