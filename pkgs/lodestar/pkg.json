@@ -1,11 +1,11 @@
 {
-  "latest_version": "1.0.0",
-  "latest_timestamp": 1767668222707,
+  "latest_version": "1.0.1",
+  "latest_timestamp": 1767669897197,
   "type": "program",
   "description": "Lodestar - Pub/Sub IPC Star Network",
   "author": "obfuscatedgenerated",
   "license": "MIT",
   "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_lodestar.git",
   "homepage_url": "https://ollieg.codes",
-  "long_desc": "# Lodestar\r\n\r\nPub/Sub IPC Star Network\r\n\r\n## Usage\r\n\r\nAdd to your program's pkgbuild config:\r\n```js\r\nconst deps = [\"lodestar\"];\r\n```\r\n\r\nUse IPC to talk to Lodestar:\r\n```js\r\nTODO\r\n```\r\n"
+  "long_desc": "# Lodestar\r\n\r\nPub/Sub IPC Star Network\r\n\r\n## Usage\r\n\r\nAdd to your program's pkgbuild config:\r\n```js\r\nconst deps = [\"lodestar\"];\r\n```\r\n\r\nUse IPC to talk to Lodestar, for example, to publish a message to a topic:\r\n```js\r\nconst ipc = term.get_ipc();\r\nconst channel = ipc.create_channel(process.pid, \"lodestar\");\r\n\r\nif (!channel) {\r\n    term.writeln(\"Failed to create IPC channel to Lodestar service. Is the lodestard running?\");\r\n    return 1;\r\n}\r\n\r\nconst publish_msg = {\r\n    type: \"publish\",\r\n    topic,\r\n    message,\r\n};\r\n\r\nipc.channel_send(channel, process.pid, publish_msg);\r\n```\r\n\r\nSee [lodestar-send](./src/send/index.ts) for a complete example of publishing messages.\r\n\r\nSee [lodestar-sub-test](./src/sub_test/index.ts) for a complete example of subscribing to messages.\r\n\r\n## Topic syntax\r\n\r\nTopics are strings composed of levels separated by dots (`.`). Each level can contain alphanumeric characters, underscores (`_`), and hyphens (`-`).\r\n\r\nTopics can also include wildcards for flexible subscriptions. For example:\r\n- `*` matches all topics at a single level.\r\n- `sports.*` matches any topic that starts with `sports.` followed by a single level (e.g., `sports.football`, `sports.basketball`).\r\n- `sports.*.scores` matches topics like `sports.football.scores` and `sports.basketball.scores`.\r\n- `**` is not yet supported.\r\n- `#` is not yet supported.\r\n"
 }

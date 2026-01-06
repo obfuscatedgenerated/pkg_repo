@@ -1,0 +1,11 @@
+{
+  "files": [
+    "lodestar-lodestard-1.0.1.js",
+    "lodestar-lodestar-send-1.0.1.js",
+    "lodestar-lodestar-sub-test-1.0.1.js"
+  ],
+  "version": "1.0.1",
+  "deps": [],
+  "build_timestamp": 1767669897213,
+  "externals": "global"
+}
