@@ -4,6 +4,7 @@ doom
 font
 gmod
 hwpkg
+lodestar
 minecraft
 py
 tuitris
