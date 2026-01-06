@@ -1,0 +1,11 @@
+{
+  "latest_version": "1.0.0",
+  "latest_timestamp": 1767668222707,
+  "type": "program",
+  "description": "Lodestar - Pub/Sub IPC Star Network",
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_lodestar.git",
+  "homepage_url": "https://ollieg.codes",
+  "long_desc": "# Lodestar\r\n\r\nPub/Sub IPC Star Network\r\n\r\n## Usage\r\n\r\nAdd to your program's pkgbuild config:\r\n```js\r\nconst deps = [\"lodestar\"];\r\n```\r\n\r\nUse IPC to talk to Lodestar:\r\n```js\r\nTODO\r\n```\r\n"
+}
