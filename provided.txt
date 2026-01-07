@@ -4,6 +4,7 @@ doom
 font
 gmod
 hwpkg
+ignition_triggers
 lodestar
 minecraft
 py
