@@ -1,0 +1,14 @@
+{
+  "files": [
+    "ignition_triggers-trigger_ignition_register_service-1.0.2.js",
+    "ignition_triggers-trigger_ignition_unregister_service-1.0.2.js",
+    "register_service.json"
+  ],
+  "version": "1.0.2",
+  "deps": [],
+  "triggers": {
+    "create_trigger": "register_service.json"
+  },
+  "build_timestamp": 1767910782058,
+  "externals": "global"
+}
