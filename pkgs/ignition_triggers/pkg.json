@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.2",
-  "latest_timestamp": 1767910782032,
+  "latest_version": "1.1.0",
+  "latest_timestamp": 1768011082216,
   "type": "program",
   "description": "pkg triggers to interact with ignition",
   "author": "obfuscatedgenerated",
