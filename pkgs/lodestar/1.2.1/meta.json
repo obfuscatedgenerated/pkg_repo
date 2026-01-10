@@ -1,0 +1,17 @@
+{
+  "files": [
+    "lodestar-lodestard-1.2.1.js",
+    "lodestar-lodestar-send-1.2.1.js",
+    "lodestar-lodestar-sub-test-1.2.1.js",
+    "lodestard.service.json"
+  ],
+  "version": "1.2.1",
+  "deps": [
+    "ignition_triggers"
+  ],
+  "triggers": {
+    "ignition_triggers/register_service": "lodestard.service.json"
+  },
+  "build_timestamp": 1768011553127,
+  "externals": "global"
+}

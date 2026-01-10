@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.1",
-  "latest_timestamp": 1767826891530,
+  "latest_version": "1.2.1",
+  "latest_timestamp": 1768011553113,
   "type": "program",
   "description": "Lodestar - Pub/Sub IPC Star Network",
   "author": "obfuscatedgenerated",
