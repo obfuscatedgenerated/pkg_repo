@@ -1,0 +1,11 @@
+{
+  "files": [
+    "hwpkg-hwpkg-1.1.0.js",
+    "test.txt"
+  ],
+  "version": "1.1.0",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1768010716052,
+  "externals": "global"
+}
