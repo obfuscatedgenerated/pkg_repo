@@ -1,0 +1,15 @@
+{
+  "files": [
+    "dev-nointro-1.3.4.js",
+    "dev-jsdbg-1.3.4.js",
+    "dev-mount-1.3.4.js",
+    "dev-expose_term-1.3.4.js",
+    "dev-expose_kernel-1.3.4.js",
+    "dev-live-pkg-1.3.4.js"
+  ],
+  "version": "1.3.4",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1768101026928,
+  "externals": "global"
+}
