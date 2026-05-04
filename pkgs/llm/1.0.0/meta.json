@@ -1,0 +1,10 @@
+{
+  "files": [
+    "llm-llm-1.0.0.js"
+  ],
+  "version": "1.0.0",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1777926276116,
+  "externals": "global"
+}
