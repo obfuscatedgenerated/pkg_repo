@@ -5,6 +5,7 @@ font
 gmod
 hwpkg
 ignition_triggers
+llm
 lodestar
 minecraft
 py
