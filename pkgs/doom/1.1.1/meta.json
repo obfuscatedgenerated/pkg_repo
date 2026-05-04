@@ -1,0 +1,11 @@
+{
+  "files": [
+    "doom-doom-1.1.1.js",
+    "bundle.jsdos"
+  ],
+  "version": "1.1.1",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1777929360829,
+  "externals": "global"
+}
