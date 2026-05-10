@@ -1,0 +1,10 @@
+{
+  "files": [
+    "minecraft-minecraft-1.2.1.js"
+  ],
+  "version": "1.2.1",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1778446793948,
+  "externals": "global"
+}
