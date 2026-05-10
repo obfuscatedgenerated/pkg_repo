@@ -4,7 +4,7 @@
     "skylight-sl_taskbar-0.1.0-alpha.js",
     "skylight-sl_startmenu-0.1.0-alpha.js",
     "skylight-sl_settings-0.1.0-alpha.js",
-    "skylight.service.json"
+    "privileged/skylight.service.json"
   ],
   "version": "0.1.0-alpha",
   "deps": [
