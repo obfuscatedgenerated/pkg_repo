@@ -4,7 +4,7 @@
   "type": "program",
   "description": "Minecraft.",
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "repo_url": "https://github.com/obfuscatedgenerated/ollieos_minecraft.git",
   "homepage_url": "https://ollieg.codes",
   "long_desc": "# OllieOS Minecraft\r\n\r\n`pkg add minecraft`\r\n\r\n## Legal\r\n\r\nNOT AN OFFICIAL MINECRAFT PRODUCT\r\n\r\nNOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT\r\n\r\n(Yes, it's just a fancy iframe around classic.minecraft.net)\r\n"
