@@ -36,4 +36,4 @@ Give a short summary of what the package is for and how it is used.
 
 ### Final check
 
-- [] I understand that once my PR is merged, the package will be publicly available (near) immediately
+- [ ] I understand that once my PR is merged, the package will be publicly available (near) immediately
