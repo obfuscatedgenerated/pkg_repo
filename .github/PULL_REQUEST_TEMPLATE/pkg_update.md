@@ -22,3 +22,12 @@ The name of your package, as it builds to (found in package.json)
 
 ### Changelog
 Give a brief summary to the changes made in each new version
+
+
+
+
+
+
+### Final check
+
+- [] I understand that once my PR is merged, the changes will be publicly available (near) immediately
