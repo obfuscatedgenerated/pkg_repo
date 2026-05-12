@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.2.3-alpha",
-  "latest_timestamp": 1778542423497,
+  "latest_version": "0.2.4-alpha",
+  "latest_timestamp": 1778621245573,
   "type": "program",
   "description": "An example package using React within OllieOS windows.",
   "author": "obfuscatedgenerated",
