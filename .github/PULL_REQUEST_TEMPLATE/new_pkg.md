@@ -27,3 +27,13 @@ Your code must be public (at least source available) to be accepted unless alrea
 
 ### Elevator pitch
 Give a short summary of what the package is for and how it is used.
+
+
+
+
+
+
+
+### Final check
+
+- [] I understand that once my PR is merged, the package will be publicly available (near) immediately
