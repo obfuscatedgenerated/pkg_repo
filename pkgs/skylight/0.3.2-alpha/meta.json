@@ -1,0 +1,23 @@
+{
+  "files": [
+    "skylight-sl_root-0.3.2-alpha.js",
+    "skylight-sl_taskbar-0.3.2-alpha.js",
+    "skylight-sl_startmenu-0.3.2-alpha.js",
+    "skylight-sl_settings-0.3.2-alpha.js",
+    "skylight-sl_desktop-0.3.2-alpha.js",
+    "skylight-sl_shutdown-0.3.2-alpha.js",
+    "skylight-sl_calc-0.3.2-alpha.js",
+    "privileged/skylight.service.json",
+    "icons/sl_calc.svg",
+    "icons/sl_settings.svg"
+  ],
+  "version": "0.3.2-alpha",
+  "deps": [
+    "ignition_triggers"
+  ],
+  "triggers": {
+    "ignition_triggers/register_service": "privileged/skylight.service.json"
+  },
+  "build_timestamp": 1778964616012,
+  "externals": "global"
+}
