@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.2.1",
-  "latest_timestamp": 1778446793931,
+  "latest_version": "1.2.2",
+  "latest_timestamp": 1778965092326,
   "type": "program",
   "description": "Minecraft.",
-  "author": "",
+  "author": "obfuscatedgenerated",
   "license": "MIT",
   "repo_url": "https://github.com/obfuscatedgenerated/ollieos_minecraft.git",
   "homepage_url": "https://ollieg.codes",
