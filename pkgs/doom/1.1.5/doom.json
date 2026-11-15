@@ -1,0 +1,11 @@
+{
+  "name": "doom",
+  "description": "DOOM.",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "gui": {
+    "display_name": "DOOM"
+  },
+  "compat": "3.0.0",
+  "needs_dom": true
+}
