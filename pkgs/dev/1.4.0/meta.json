@@ -1,0 +1,19 @@
+{
+  "files": [
+    "nointro.js",
+    "jsdbg.js",
+    "expose_term.js",
+    "expose_kernel.js",
+    "live-pkg.js",
+    "nointro.json",
+    "jsdbg.json",
+    "expose_term.json",
+    "expose_kernel.json",
+    "live-pkg.json"
+  ],
+  "version": "1.4.0",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1794786187817,
+  "externals": "global"
+}
