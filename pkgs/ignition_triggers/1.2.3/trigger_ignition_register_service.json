@@ -1,0 +1,8 @@
+{
+  "name": "trigger_ignition_register_service",
+  "description": "",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "hide_from_help": true,
+  "compat": "3.0.0"
+}
