@@ -1,0 +1,7 @@
+{
+  "name": "hwpkg",
+  "description": "Says hello to the world!",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "compat": "2.0.0"
+}
