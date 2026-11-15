@@ -1,0 +1,12 @@
+{
+  "files": [
+    "minecraft.js",
+    "minecraft.json",
+    "icon.svg"
+  ],
+  "version": "1.2.3",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1794786410789,
+  "externals": "global"
+}
