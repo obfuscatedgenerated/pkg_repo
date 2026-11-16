@@ -1,0 +1,12 @@
+{
+  "name": "sl_settings",
+  "description": "Skylight Settings",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "gui": {
+    "display_name": "Settings",
+    "icon_path": "/usr/bin/skylight/icons/sl_settings.svg"
+  },
+  "compat": "3.0.0",
+  "needs_dom": true
+}

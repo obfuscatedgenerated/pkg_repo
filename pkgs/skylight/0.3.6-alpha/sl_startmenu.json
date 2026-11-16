@@ -1,0 +1,10 @@
+{
+  "name": "sl_startmenu",
+  "description": "Skylight Start Menu",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "space": "kernel",
+  "reason": "Should not be invoked. Please use sl_root to start skylight.",
+  "hide_from_help": true,
+  "compat": "3.0.0"
+}

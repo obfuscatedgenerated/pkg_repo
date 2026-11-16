@@ -14,3 +14,4 @@
 0.3.3-alpha
 0.3.4-alpha
 0.3.5-alpha
+0.3.6-alpha

@@ -1,0 +1,30 @@
+{
+  "files": [
+    "sl_root.js",
+    "sl_taskbar.js",
+    "sl_startmenu.js",
+    "sl_settings.js",
+    "sl_desktop.js",
+    "sl_shutdown.js",
+    "sl_calc.js",
+    "sl_root.json",
+    "sl_taskbar.json",
+    "sl_startmenu.json",
+    "sl_settings.json",
+    "sl_desktop.json",
+    "sl_shutdown.json",
+    "sl_calc.json",
+    "privileged/skylight.service.json",
+    "icons/sl_calc.svg",
+    "icons/sl_settings.svg"
+  ],
+  "version": "0.3.6-alpha",
+  "deps": [
+    "ignition_triggers"
+  ],
+  "triggers": {
+    "ignition_triggers/register_service": "privileged/skylight.service.json"
+  },
+  "build_timestamp": 1794793375354,
+  "externals": "global"
+}

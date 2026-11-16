@@ -1,0 +1,12 @@
+{
+  "name": "Skylight",
+  "dependencies": [],
+  "exec": "sl_root",
+  "auto_start": true,
+  "oneshot": false,
+  "restart": {
+    "on": "failure",
+    "delay_ms": 1000,
+    "max_retries": 5
+  }
+}

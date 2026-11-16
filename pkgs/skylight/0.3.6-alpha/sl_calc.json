@@ -1,0 +1,12 @@
+{
+  "name": "sl_calc",
+  "description": "Skylight Calculator",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "gui": {
+    "display_name": "Calculator",
+    "icon_path": "/usr/bin/skylight/icons/sl_calc.svg"
+  },
+  "compat": "3.0.0",
+  "needs_dom": true
+}
