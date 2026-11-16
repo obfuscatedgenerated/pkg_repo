@@ -1,0 +1,11 @@
+{
+  "latest_version": "0.0.10",
+  "latest_timestamp": 1794802383990,
+  "type": "program",
+  "description": "TOTP codes in OllieOS. Don't use this for anything serious.",
+  "author": "obfuscatedgenerated",
+  "license": "MIT",
+  "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_2fa.git",
+  "homepage_url": "https://ollieg.codes",
+  "long_desc": "# OllieOS 2FA\r\n\r\n`pkg add 2fa`\r\n\r\nA TOTP code generator for OllieOS.\r\n\r\nThe only supported subcommand currently is `2fa now`.\r\n\r\nYou really shouldn't use this for anything serious :P\r\n\r\n> Note: this is yet to be updated to the modern ollieos#types build approach. If you're looking for better example pakcages, use the [template package](https://github.com/obfuscatedgenerated/ollieos_test_pkg).\r\n"
+}
