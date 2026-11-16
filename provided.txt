@@ -7,7 +7,6 @@ hwpkg
 ignition_triggers
 llm
 lodestar
-minecraft
 py
 skylight
 tuitris
