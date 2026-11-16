@@ -1,0 +1,9 @@
+{
+  "name": "py",
+  "description": "Python interpreter powered by Pyodide",
+  "usage_suffix": "<file>",
+  "arg_descriptions": {
+    "file": "The Python file to run."
+  },
+  "compat": "3.0.0"
+}

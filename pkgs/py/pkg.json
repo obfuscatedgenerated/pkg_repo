@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.2.1",
-  "latest_timestamp": 1794791586456,
+  "latest_version": "0.2.2",
+  "latest_timestamp": 1794793272422,
   "type": "program",
   "description": "A Python interpreter for OllieOS, powered by Pyodide.",
   "author": "obfuscatedgenerated",
