@@ -1,0 +1,11 @@
+{
+  "name": "classicube",
+  "description": "ClassiCube ported to OllieOS!",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "compat": "3.0.0",
+  "needs_dom": true,
+  "gui": {
+    "display_name": "ClassiCube"
+  }
+}
