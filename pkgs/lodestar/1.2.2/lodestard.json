@@ -1,0 +1,8 @@
+{
+  "name": "lodestard",
+  "description": "Lodestar - Pub/Sub IPC Star Network",
+  "usage_suffix": "",
+  "hide_from_help": true,
+  "arg_descriptions": {},
+  "compat": "3.0.0"
+}

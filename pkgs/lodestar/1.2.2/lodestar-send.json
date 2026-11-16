@@ -1,0 +1,13 @@
+{
+  "name": "lodestar-send",
+  "description": "Publish a string message to a Lodestar topic.",
+  "usage_suffix": "<topic> [-j] <message>",
+  "arg_descriptions": {
+    "Arguments:": {
+      "topic": "The topic to publish the message to.",
+      "message": "The message to publish.",
+      "-j": "Indicates that the message is in JSON format, rather than plain text."
+    }
+  },
+  "compat": "3.0.0"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lodestar-sub-test",
+  "description": "Test subscribing to a Lodestar topic and receiving messages.",
+  "usage_suffix": "<topic>",
+  "arg_descriptions": {
+    "Arguments:": {
+      "topic": "The topic to subscribe to. Wildcards are supported."
+    }
+  },
+  "compat": "3.0.0"
+}
