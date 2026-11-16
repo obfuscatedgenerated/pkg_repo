@@ -1,0 +1,11 @@
+{
+  "files": [
+    "py.js",
+    "py.json"
+  ],
+  "version": "0.2.1",
+  "deps": [],
+  "triggers": {},
+  "build_timestamp": 1794791586491,
+  "externals": "global"
+}
