@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.3.4-alpha",
-  "latest_timestamp": 1794442456735,
+  "latest_version": "0.3.5-alpha",
+  "latest_timestamp": 1794788851880,
   "type": "program",
-  "description": "An example package using React within OllieOS windows.",
+  "description": "Desktop environment for OllieOS",
   "author": "obfuscatedgenerated",
   "license": "MIT",
   "repo_url": "git+https://github.com/obfuscatedgenerated/ollieos_test_pkg.git",
