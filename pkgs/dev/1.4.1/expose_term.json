@@ -1,0 +1,10 @@
+{
+  "name": "expose_term",
+  "description": "Exposes the terminal object to the global window for debugging from the JavaScript console.",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "node_opt_out": true,
+  "compat": "3.0.0",
+  "space": "kernel",
+  "reason": "Exposes the real terminal object to the JavaScript console."
+}
