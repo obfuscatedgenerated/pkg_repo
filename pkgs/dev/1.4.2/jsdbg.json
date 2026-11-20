@@ -1,0 +1,9 @@
+{
+  "name": "jsdbg",
+  "description": "Redirects the JavaScript console to the terminal until the OS is restarted. Add me to .ollierc to make it permanent.",
+  "usage_suffix": "",
+  "arg_descriptions": {},
+  "compat": "3.0.0",
+  "space": "kernel",
+  "reason": "Redirecting the console means replacing the OS's own console functions."
+}
